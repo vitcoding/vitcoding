@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="recursion.gif" width="100"/>
+</div>
+
 ## Hi there 👋
 
 <!--
