@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 - :telescope: I’m a Python developer, building backend applications and APIs using FastAPI, Flask and Django.  
 - :seedling: Exploring algorithms and data structures to write more efficient code.  
-- :zap: In my free time, I learn frontend development to become a more versatile developer and solve problems on LeetCode.
+- :zap: In my free time, I experiment with neural networks, LLMs to expand my AI expertise.
 - :rocket: Open to full-stack or backend collaborations!
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vitcoding-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vitcoding).
 
